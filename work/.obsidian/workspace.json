@@ -4,26 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "bf342977174ba459",
+        "id": "021b7b7ec3f786dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e631c8994209d3a6",
+            "id": "cc7055a6d4a50984",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "weekly",
               "state": {}
             }
           },
           {
-            "id": "ae74e0cd57451cad",
+            "id": "84e63c9ea804e139",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "work/spring.md",
-                "mode": "source",
-                "source": false
+                "file": "work/day plan/2023-09-11.md",
+                "staged": false
               }
             }
           }
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "work/spring.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,13 +148,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a7414797bc477148",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +175,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "ae74e0cd57451cad",
+  "active": "84e63c9ea804e139",
   "lastOpenFiles": [
-    "work/spring.md"
+    "day plan/demo.md",
+    "day plan/2023-09-11.md",
+    "work/spring.md",
+    "day plan"
   ]
 }
