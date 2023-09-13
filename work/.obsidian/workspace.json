@@ -21,7 +21,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "work/day plan/2023-09-11.md",
+                "file": "work/work",
                 "staged": false
               }
             }
@@ -177,9 +177,15 @@
   },
   "active": "84e63c9ea804e139",
   "lastOpenFiles": [
+    "work/面试/0913美团.md",
+    "work/面试/场景.md",
+    "work/面试/0911 阿里集团.md",
+    "work/面试/Hr面试.md",
+    "work/spring.md",
+    "work/未命名.md",
+    "work/面试",
     "day plan/demo.md",
     "day plan/2023-09-11.md",
-    "work/spring.md",
     "day plan"
   ]
 }
