@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day plan/2023-09-11.md",
+                "file": "论文/什么时候以及为何变得难闻.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "afc28c58a06fffe3",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "work/.obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "论文/什么时候以及为何变得难闻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "论文/什么时候以及为何变得难闻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "论文/什么时候以及为何变得难闻.md"
+              }
             }
           },
           {
@@ -172,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,29 +172,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "afc28c58a06fffe3",
+  "active": "84e63c9ea804e139",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "work的副本/spring.md",
-    "work的副本/未命名.md",
-    "work的副本/面试/Hr面试.md",
-    "work的副本/面试/场景.md",
-    "work的副本/面试/0913美团.md",
-    "work的副本/面试/0911 阿里集团.md",
-    "work的副本/面试",
-    "work的副本",
+    "论文/Arcan自动检测工具.md",
+    "论文/什么时候以及为何变得难闻.md",
+    "论文/思路.md",
+    "论文/AS对TD影响.md",
+    "leetcode/最大单词乘积.md",
+    "leetcode/未命名.md",
+    "template/leetcode.md",
     "day plan/2023-09-11.md",
+    "template",
     "day plan/demo.md",
-    "work/spring.md",
-    "day plan"
+    "未命名.canvas",
+    "leetcode",
+    "Users/keyonxie/Zotero/storage/LMUP4YKF/Fontana.md",
+    "Users/keyonxie/Zotero/storage/LMUP4YKF",
+    "Users/keyonxie/Zotero/storage",
+    "Users/keyonxie/Zotero",
+    "Users/keyonxie",
+    "Users",
+    "day plan/2023-10-30.md",
+    "mooc/12306.md",
+    "day plan/2023-10-25.md",
+    "mooc",
+    "day plan/2023-09-21.md",
+    "看书/中国历代政治得失.md",
+    "day plan/2023-10-23.md",
+    "看书",
+    "论文/每日记录.md",
+    "day plan/2023-10-21.md",
+    "day plan/2023-10-19.md",
+    "work的副本/面试/Hr面试.md",
+    "论文",
+    "work的副本/面试/英语测评.md",
+    "work的副本/测评.md",
+    "work的副本/八股/去重、过滤场景题.md",
+    "work的副本/八股/未命名 2.md",
+    "work的副本/八股/TopK场景题.md",
+    "work的副本/八股/消息队列.md"
   ]
 }
