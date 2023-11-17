@@ -8,8 +8,10 @@
 5. 定义图的数据结构
 6. 三种AS
 	1. UD（不稳定的）
-	2. HL（集线器）
-	3. CD（循环）
+	2. ![image.png](https://obsidian-keyon.oss-cn-beijing.aliyuncs.com/pictures/20231108204211.png)
+
+	3. HL（集线器）
+	4. CD（循环）
 		1. 大循环
 		2. 子循环
 7. 没有提供召回率验证评估标准（可以建立

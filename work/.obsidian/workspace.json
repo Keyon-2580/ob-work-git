@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/什么时候以及为何变得难闻.md",
+                "file": "论文/增量方案.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/什么时候以及为何变得难闻.md",
+                "file": "论文/增量方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/什么时候以及为何变得难闻.md",
+                "file": "论文/增量方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/什么时候以及为何变得难闻.md"
+                "file": "论文/增量方案.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,12 +184,17 @@
   "active": "84e63c9ea804e139",
   "lastOpenFiles": [
     "论文/Arcan自动检测工具.md",
-    "论文/什么时候以及为何变得难闻.md",
     "论文/思路.md",
+    "论文/增量方案.md",
+    "论文/架构异味的影响力评估.md",
+    "论文/每日记录.md",
+    "论文/架构气味演化分析.md",
+    "论文/什么时候以及为何变得难闻.md",
     "论文/AS对TD影响.md",
+    "template/leetcode.md",
+    "看书/小岛经济学.md",
     "leetcode/最大单词乘积.md",
     "leetcode/未命名.md",
-    "template/leetcode.md",
     "day plan/2023-09-11.md",
     "template",
     "day plan/demo.md",
@@ -209,16 +214,11 @@
     "看书/中国历代政治得失.md",
     "day plan/2023-10-23.md",
     "看书",
-    "论文/每日记录.md",
     "day plan/2023-10-21.md",
     "day plan/2023-10-19.md",
     "work的副本/面试/Hr面试.md",
     "论文",
     "work的副本/面试/英语测评.md",
-    "work的副本/测评.md",
-    "work的副本/八股/去重、过滤场景题.md",
-    "work的副本/八股/未命名 2.md",
-    "work的副本/八股/TopK场景题.md",
-    "work的副本/八股/消息队列.md"
+    "work的副本/测评.md"
   ]
 }
