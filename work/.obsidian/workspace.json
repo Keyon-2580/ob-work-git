@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/增量方案.md",
+                "file": "论文/架构反模式和缺陷关系检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/增量方案.md",
+                "file": "论文/架构反模式和缺陷关系检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/增量方案.md",
+                "file": "论文/架构反模式和缺陷关系检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/增量方案.md"
+                "file": "论文/架构反模式和缺陷关系检测.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -178,47 +178,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "84e63c9ea804e139",
+  "active": "dc9067017f51130f",
   "lastOpenFiles": [
-    "论文/Arcan自动检测工具.md",
-    "论文/思路.md",
-    "论文/增量方案.md",
+    "论文/架构气味演化分析.md",
     "论文/架构异味的影响力评估.md",
     "论文/每日记录.md",
-    "论文/架构气味演化分析.md",
     "论文/什么时候以及为何变得难闻.md",
     "论文/AS对TD影响.md",
-    "template/leetcode.md",
-    "看书/小岛经济学.md",
-    "leetcode/最大单词乘积.md",
-    "leetcode/未命名.md",
-    "day plan/2023-09-11.md",
-    "template",
+    "论文/Arcan自动检测工具.md",
+    "论文/增量方案.md",
+    "论文/架构反模式和缺陷关系检测.md",
+    "论文/思路.md",
+    "day plan/2023-12-13.md",
+    "论文/实验/neo4j.md",
+    "day plan/2023-12-14.md",
+    "论文/实验/issue.md",
+    "论文/实验/未命名.md",
+    "论文/论文大纲/创新.md",
+    "day plan/2023-12-12.md",
+    "day plan/2023-12-08.md",
     "day plan/demo.md",
-    "未命名.canvas",
-    "leetcode",
-    "Users/keyonxie/Zotero/storage/LMUP4YKF/Fontana.md",
-    "Users/keyonxie/Zotero/storage/LMUP4YKF",
-    "Users/keyonxie/Zotero/storage",
-    "Users/keyonxie/Zotero",
-    "Users/keyonxie",
-    "Users",
-    "day plan/2023-10-30.md",
-    "mooc/12306.md",
-    "day plan/2023-10-25.md",
-    "mooc",
     "day plan/2023-09-21.md",
-    "看书/中国历代政治得失.md",
-    "day plan/2023-10-23.md",
-    "看书",
-    "day plan/2023-10-21.md",
-    "day plan/2023-10-19.md",
-    "work的副本/面试/Hr面试.md",
-    "论文",
-    "work的副本/面试/英语测评.md",
-    "work的副本/测评.md"
+    "day plan/2023-09-11.md",
+    "work的副本/三方.md",
+    "论文/论文大纲/RQ.md",
+    "论文/论文大纲/工具对比.md",
+    "论文/论文大纲/研究现状.md",
+    "论文/论文大纲",
+    "论文/实验/AS.md",
+    "day plan/2023-12-07.md",
+    "看书/置身事内：中国政府与经济发展",
+    "看书/Java核心技术·卷Ⅰ：基础知识（原书第10版）",
+    "看书/焦虑的人",
+    "看书/刻意练习：如何从新手到大师",
+    "看书/西西弗神话",
+    "看书/苏菲的世界",
+    "看书/掌控习惯",
+    "看书/认知觉醒：开启自我改变的原动力",
+    "看书/中国历代政治得失",
+    "未命名.canvas"
   ]
 }

@@ -1,0 +1,6 @@
+jedis/src/main/java/redis/clients/jedis/Client.java
+3d1546131a961e1cdbe34865a6aa9c2f481b88f9
+8692184f5a4b23b9f2166fa890d3d85c5d3d5894
+
+
+last commit : 10ebde8f2b9b62115c4b4b3e849de78c3c672b00
