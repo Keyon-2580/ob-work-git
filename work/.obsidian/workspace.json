@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/架构反模式和缺陷关系检测.md",
+                "file": "day plan/2023-12-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de7872aab052331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day plan/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/架构反模式和缺陷关系检测.md",
+                "file": "day plan/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/架构反模式和缺陷关系检测.md",
+                "file": "day plan/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/架构反模式和缺陷关系检测.md"
+                "file": "day plan/2023-12-18.md"
               }
             }
           },
@@ -179,38 +191,39 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-day-planner:Week plan": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc9067017f51130f",
+  "active": "84e63c9ea804e139",
   "lastOpenFiles": [
-    "论文/架构气味演化分析.md",
-    "论文/架构异味的影响力评估.md",
-    "论文/每日记录.md",
-    "论文/什么时候以及为何变得难闻.md",
-    "论文/AS对TD影响.md",
-    "论文/Arcan自动检测工具.md",
-    "论文/增量方案.md",
-    "论文/架构反模式和缺陷关系检测.md",
-    "论文/思路.md",
-    "day plan/2023-12-13.md",
-    "论文/实验/neo4j.md",
-    "day plan/2023-12-14.md",
+    "论文/代码.md",
     "论文/实验/issue.md",
+    "论文/实验/AS.md",
     "论文/实验/未命名.md",
+    "论文/论文大纲/研究现状.md",
+    "论文/论文大纲/RQ.md",
+    "论文/每日记录.md",
+    "论文/架构异味的影响力评估.md",
+    "论文/架构反模式和缺陷关系检测.md",
+    "论文/架构气味演化分析.md",
+    "论文/增量方案.md",
+    "论文/思路.md",
+    "day plan/2023-12-18.md",
+    "论文/实验/mysql.md",
+    "论文/实验/neo4j.md",
+    "论文/什么时候以及为何变得难闻.md",
+    "论文/论文大纲/工具对比.md",
     "论文/论文大纲/创新.md",
+    "论文/Arcan自动检测工具.md",
+    "论文/AS对TD影响.md",
+    "day plan/2023-12-13.md",
+    "day plan/2023-12-14.md",
     "day plan/2023-12-12.md",
     "day plan/2023-12-08.md",
     "day plan/demo.md",
     "day plan/2023-09-21.md",
-    "day plan/2023-09-11.md",
-    "work的副本/三方.md",
-    "论文/论文大纲/RQ.md",
-    "论文/论文大纲/工具对比.md",
-    "论文/论文大纲/研究现状.md",
     "论文/论文大纲",
-    "论文/实验/AS.md",
-    "day plan/2023-12-07.md",
     "看书/置身事内：中国政府与经济发展",
     "看书/Java核心技术·卷Ⅰ：基础知识（原书第10版）",
     "看书/焦虑的人",
