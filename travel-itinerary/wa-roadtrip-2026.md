@@ -146,7 +146,7 @@
 
 ### 蓝色清真寺｜莎阿南蓝色清真寺
 
-![蓝色清真寺](https://commons.wikimedia.org/wiki/Special:FilePath/Sultan_Salahuddin_Abdul_Aziz_Mosque_2012.jpg?width=1200)
+![蓝色清真寺](images/blue-mosque.jpg)
 
 - 英文：Sultan Salahuddin Abdul Aziz Mosque
 - 看点：蓝色穹顶视觉很强，但离市区较远，转机日可作为取舍项。
@@ -155,7 +155,7 @@
 
 ### 茨厂街｜吉隆坡唐人街
 
-![茨厂街](https://commons.wikimedia.org/wiki/Special:FilePath/Petaling_Street_KL.jpg?width=1200)
+![茨厂街](images/petaling-street.jpg)
 
 - 英文：Petaling Street
 - 看点：吃饭和街区扫街方便，可和柏威年/双子塔前后衔接。
@@ -200,7 +200,7 @@
 
 ### Voyager Estate｜旅行者酒庄
 
-![Voyager Estate](https://www.margaretriver.com/wp-content/uploads/2020/09/Voyager-Estate-rose-garden.jpg)
+![Voyager Estate](images/voyager-estate.jpg)
 
 - 英文：Voyager Estate
 - 看点：花园、餐厅和品酒体验，适合作为 Margaret 酒庄午餐候选。
@@ -209,7 +209,7 @@
 
 ### Leeuwin Estate｜露纹酒庄
 
-![Leeuwin Estate](https://www.margaretriver.com/wp-content/uploads/2020/09/Leeuwin-Estate.jpg)
+![Leeuwin Estate](images/leeuwin-estate.jpg)
 
 - 英文：Leeuwin Estate
 - 看点：Margaret River 经典酒庄之一，适合餐酒体验。
@@ -272,7 +272,7 @@
 
 ### Pot Alley｜锅巷海岸
 
-![Pot Alley](https://commons.wikimedia.org/wiki/Special:FilePath/Pot_Alley_Kalbarri_National_Park.jpg?width=1200)
+![Pot Alley](images/pot-alley.png)
 
 - 英文：Pot Alley
 - 看点：红岩海岸线，适合傍晚光线；风大时注意安全。
